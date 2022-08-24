@@ -1,0 +1,10 @@
+full font ke google er ekta font a anar niom
+1.sei font er link add kora head a
+2.css a sei font er name lekha 
+
+lelka r sobi pasha pashi korar niom
+* duita containe tag re ekta boro container tag 
+a rakhar por vaga vagi kore dite hobe width borabor
+
+thik thak bosanor niom
+padding e maddhome kom besi kora jabe
